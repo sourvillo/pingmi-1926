@@ -1,0 +1,107 @@
+idx	group	plain_char	plain_note	stc	key_group	class	blind_reading	blind_grade
+1	9221	顏		7346	9221	exact	顏	A
+2	9231	駿		7486	9331	one digit	飭	?
+3	6552	人		0086	1131	disagree	到	?
+4	2191	因		0936	2141	one digit	因	C
+5	8930	雨		7183	8936	one digit	雨	C
+6	2711	帥		1596	2711	exact	帥	A
+7	7635	致		5268	6875	disagree	支	?
+8	5235	玉		3768	5275	one digit	玉	A
+9	2711	帥		1596	2711	exact	帥	A
+10	6160	魚		7625	9560	disagree	答	B
+11	8471	電		7193	8916	disagree		
+12	3837	有		2589	3837	exact	謂	C
+13	3791	請		6153	7896	handwriting	於	B
+14	7613	放		2397	3613	one digit		
+15	3333	手		2087	3333	exact		
+16	2492	進		6651	8492	one digit		
+17	3733	行		5887	7533	handwriting		
+18	4444	毫		3032	4444	exact	毫	A
+19	4920	無		3541	4922	one digit	無	A
+20	3394	成		2052	3394	exact	成	A
+21	7760	見		6015	7780	one digit	見	A
+22	6136	等		4583	6136	exact	等	A
+23	7847	語		6133	7846	one digit	語	A
+24	1724	又		0642	1724	exact	又	A
+25	6224	經		4842	6424	one digit	經	B
+26	4786	齊		7871	9752	disagree		
+27	5233	王		3769	5277	handwriting	王	A
+28	7965	張		1728	2965	one digit	張	A
+29	7856	諸		6175	7850	one digit	諸	B
+30	2717	帥		1596	2711	one digit	帥	B
+31	1519	力		0500	1519	exact	力	A
+32	1445	勸		0538	1645	one digit	勸	A
+33	2752	已		1571	2752	exact	已	A
+34	1441	允		0336	1441	exact	允	A
+35	2975	復		1788	2935	one digit	復	A
+36	8789	職		5120	6789	one digit	職	A
+37	1947	只		0662	1774	disagree		
+38	1304	俟		0203	1306	one digit	保	B
+39	1957	各		0677	1753	handwriting		
+40	5296	方		2455	3790	disagree		
+41	6118	答		4594	6118	exact	答	B
+42	3329	復		1788	2935	disagree	戍	C
+43	8590	佳		0163	1276	disagree	都	C
+44	8916	電		7193	8916	exact	電	A
+45	1986	卽		0613	1786	one digit		
+46	1735	可		0668	1775	one digit	可	B
+47	2576	實		1395	2510	handwriting		
+48	5303	現		3807	5303	exact	現	A
+49	1430	其		0366	1471	handwriting	內	C
+50	8822	閣		7041	8822	exact	閣	A
+51	1610	員		0765	1870	handwriting	問	C
+52	?239	係		0190	1239	illegible digit	題	C
+53	2644	就		1432	2644	exact	就	B
+54	3627	直		4160	5699	disagree		
+55	3328	奉		1144	2328	one digit		
+56	7681	聯		5114	6788	disagree	被	B
+57	7563	絡		4820	6489	disagree	出	C
+58	2198	四		0934	2148	one digit		
+59	4551	派		3175	4550	one digit		
+60	?436	遴		6689	8437	illegible digit		
+61	8416	選		6693	8416	exact	退	C
+62	4702	馮		7458	9395	disagree		
+63	2752	已		1571	2752	exact	已	A
+64	1199	于	register has 於; cipher has 于	0060	1199	exact	于	A
+65	1161	九		0046	1121	one digit	今	B
+66	3759	日		2480	3759	exact	日	A
+67	8403	抵		2107	3403	one digit	抵	B
+68	?097	莫		5459	7197	illegible digit		
+69	3775	斯		2448	3725	one digit		
+70	5446	科		4430	5969	disagree	生	A
+71	6781	聲		5116	6781	exact	聲	A
+72	5975	稱		4468	5975	exact	稱	A
+73	?323	此		2974	4358	illegible digit	奉	C
+74	7530	行		5887	7533	one digit	行	C
+75	1237	係		0190	1239	one digit	使	C
+76	?316	考		5072	6654	illegible digit		
+77	2539	察		1390	2539	exact	察	A
+78	8382	軍		6511	8382	exact	軍	A
+79	1125	事		0057	1193	disagree	也	B
+80	7615	政		2398	3615	one digit	政	A
+81	4583	治		3112	4584	one digit	況	B
+82	3737	文		2429	3767	one digit		
+83	????	化		0553	1696	illegible digit		
+84	2256	增		1073	2256	exact	增	B
+85	8496	進		6651	8492	one digit	逼	B
+86	1164	中		0022	1164	exact	中	A
+87	1212	俄		0192	1214	one digit	促	B
+88	7763	親		6024	7768	one digit		
+89	1319	善		0810	1909	disagree		
+90	2366		join: not in the plaintext alignment				夜	A
+91	????		join: not in the plaintext alignment				昌	C
+92	2807	帶		1601	2802	one digit	平	B
+93	1721	反		0646	1721	exact	反	A
+94	3611	攻		2396	3611	exact	攻	A
+95	2752	已		1571	2752	exact	已	A
+96	7661	被		5926	7661	exact	被	A
+97	1783	聯		5114	6788	handwriting	聯	A
+98	6582	軍		6511	8382	handwriting	軍	A
+99	3620	擊		2345	3620	exact	擊	A
+100	8464	退		6622	8464	exact	退	A
+101	1172	云		0061	1172	exact	云	A
+102	3962	李		2621	3962	exact	李	A
+103	7570	實		1395	2510	handwriting		
+104	2917	茂		5399	6917	one digit		
+105	1772	叩		0661	1772	exact	叩	A
+106	6382	軫		6518	8385	handwriting		
